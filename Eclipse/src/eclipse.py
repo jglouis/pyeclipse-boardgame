@@ -15,4 +15,5 @@ if __name__ == "__main__":
 //test conflict
 //dummy1
 //dummy2
+//b1
 //b3
