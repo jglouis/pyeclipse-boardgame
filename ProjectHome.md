@@ -1,0 +1,1 @@
+This is a python version of the boardgame Eclipse. Work in progress.
